@@ -1,3 +1,8 @@
+---
+title: An Introduction to Markdown
+author: Deborah Mundorff
+---
+
 # An Introduction to Markdown
 
 This past February, I was putting together a proposal for the [2022 Distance Teaching & Learning (DT&L) Conference](https://conferences.upcea.edu/DTL2022/proposals.html?_zs=CcsHX&_zl=24ox2), and I shared my draft with a couple of my colleagues for feedback.
