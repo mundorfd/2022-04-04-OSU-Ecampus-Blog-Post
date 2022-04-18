@@ -51,9 +51,9 @@ which in my document becomes: [OSU Canvas Dashboard](https://canvas.oregonstate.
 
 A Markdown file with the extension ".md" is just a plain text file. Storing information in plain text files has several advantages:
 
-1. Text files are future-proof. You can open a plain text file with any editor on any platform. You are not hostage to the proprietary format chosen by an application developer. (I have yet to find a way to get my Evernote database into some usable form.) You are not dependent on any particular software program still being around to open your Markdown files.
+1. Text files are future-proof. You can open a plain text file with any editor on any platform. You are not hostage to the proprietary format chosen by an application developer. You are not dependent on any particular software program still being around to open your Markdown files.
 2. Text files require very little storage. This blog post, written in Markdown, was almost 250% larger once converted to a Microsoft Word document.
-3. Text files are platform-agnostic, making them easy to share with other people or multiple devices. A text file can be opened on a Mac, on Windows, in Chrome OS, in a web browser, on an ios or Android smartphone, or a Linux machine.
+3. Text files are platform-agnostic, making them easy to share with other people or multiple devices. A text file can be opened on a Mac, on Windows, in Chrome OS, in a web browser, on an ios or Android smartphone, or on a Linux machine.
 4. If you open up one of your Markdown text documents in platforms like Box or Dropbox, it automatically renders the HTML.
 
 ### Markdown is Highly Portable
